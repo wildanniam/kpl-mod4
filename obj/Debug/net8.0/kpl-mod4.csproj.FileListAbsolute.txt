@@ -1,0 +1,14 @@
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\bin\Debug\net8.0\kpl-mod4.exe
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\bin\Debug\net8.0\kpl-mod4.deps.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\bin\Debug\net8.0\kpl-mod4.runtimeconfig.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\bin\Debug\net8.0\kpl-mod4.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\bin\Debug\net8.0\kpl-mod4.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\kpl-mod4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\kpl-mod4.AssemblyInfoInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\kpl-mod4.AssemblyInfo.cs
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\kpl-mod4.csproj.CoreCompileInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\kpl-mod4.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\refint\kpl-mod4.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\kpl-mod4.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\kpl-mod4.genruntimeconfig.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod4\kpl-mod4\obj\Debug\net8.0\ref\kpl-mod4.dll
